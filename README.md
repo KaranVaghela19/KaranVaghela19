@@ -1,7 +1,7 @@
 
 
 # Hello World!, I'm Karan, a Full Stack Java Developer 👋🏼:
-👨🏼‍🎓 studied B.Tech in Information Technology at DY Patil University<br>👨🏼‍💻 working as a web developer since 2022 
+👨🏼‍🎓 studied B.Tech in Information Technology at DY Patil University
 
 
 # 💻 Tech Stack:
